@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9e3ca2a2-6505-427c-817c-d233285b1edf" name="Changes" comment="Add package chapter 001, section 009">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+=======
+    <list default="true" id="9e3ca2a2-6505-427c-817c-d233285b1edf" name="Changes" comment="">
+>>>>>>> 7f398a2 (sync code)
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,10 +61,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670765978996</updated>
+<<<<<<< HEAD
       <workItem from="1670765981378" duration="382000" />
       <workItem from="1670884820743" duration="85000" />
       <workItem from="1670884987448" duration="455000" />
       <workItem from="1670886090011" duration="408000" />
+=======
+      <workItem from="1670765981378" duration="1034000" />
+>>>>>>> 7f398a2 (sync code)
     </task>
     <task id="LOCAL-00001" summary="Add package chapter 001, section 009">
       <created>1670886342502</created>
